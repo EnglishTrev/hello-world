@@ -21,5 +21,10 @@ namespace GitLearn
         {
             MessageBox.Show("Hello world develop");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
